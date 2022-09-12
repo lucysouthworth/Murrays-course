@@ -21,3 +21,7 @@ dplyr::filter()
 # create tag
 #git tag -a<tag> -m <message>
 # git tag -a 'V1' -m 'version1'
+
+# git - backtracking - rolling back
+# checkout - reset - revert
+# checkout is most common 
