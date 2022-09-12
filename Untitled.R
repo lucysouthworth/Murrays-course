@@ -15,3 +15,9 @@ dplyr::filter()
 # GIT
 #configure Git - on terminal one time per machine
 #  when commiting changes git saves a 'SHA' code to identify each commit - this can be found in history in the commit window
+# once commited if you want to see what you previously commited you can hit the clock in the environment/git/history panel
+
+# create Tag if you want to flag a major change or say the version at which you submitted a version of a paper
+# create tag
+#git tag -a<tag> -m <message>
+# git tag -a 'V1' -m 'version1'
